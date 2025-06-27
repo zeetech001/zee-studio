@@ -1,0 +1,4 @@
+my project was to build a predictive model for a store known as "impact store". it is a leading chain of store in Oyo state Nigeria. At the core of their bussiness is a strong sense of excellence and enterpreneural value. this is evident in all their 1500 products available to all segment of the population at customers friendly prices, across 10 stores in diffent cities in Nigeria.
+The CEO plans to expand their stores to more cities in 2025. he therefore sees the need to understand which product runs higher profit at specific stores so as to inform the expansion plan.
+i have built a predictive model to find out the profit return on each product at a particular store.
+my predictions will enable the CEO to understand the key characteristics of items and store, which drives return and have better insight on how to proceed with the plan of expansion.
